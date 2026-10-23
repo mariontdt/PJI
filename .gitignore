@@ -1,0 +1,20 @@
+# Patient data and generated databases must never be committed.
+*.sqlite
+*.sqlite3
+*.sqlite-*
+outputs/
+uploads/
+review_packets/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.openai/
+
+# Python and OS artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/

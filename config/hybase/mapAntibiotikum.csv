@@ -1,0 +1,70 @@
+Antibiotikum_Raw,Antibiotikum_Standard,Antibiotikaklasse,Spezialtest,Kommentar,Aktiv
+Penicillin,Penicillin,Beta-Laktam,,AB-Spalte,1
+Amoxicilli,Amoxicillin,Beta-Laktam,,HYBASE gekuerzt,1
+Ampicillin,Ampicillin,Beta-Laktam,,AB-Spalte,1
+Oxacillin,Oxacillin,Beta-Laktam,MRSA/Methicillin-Surrogat,,1
+Cefoxitin,Cefoxitin,Beta-Laktam,MRSA/Methicillin-Surrogat,,1
+Cefazolin,Cefazolin,Cephalosporin,,AB-Spalte,1
+Cefuroxim,Cefuroxim,Cephalosporin,,AB-Spalte,1
+Cefuroxime,Cefuroxim,Cephalosporin,,Historische Schreibweise,1
+Ceftriaxon,Ceftriaxon,Cephalosporin,,AB-Spalte,1
+Cefotaxim,Cefotaxim,Cephalosporin,,AB-Spalte,1
+Ceftazidim,Ceftazidim,Cephalosporin,,AB-Spalte,1
+Cefepim,Cefepim,Cephalosporin,,AB-Spalte,1
+Meropenem,Meropenem,Carbapenem,,AB-Spalte,1
+Imipenem,Imipenem,Carbapenem,,AB-Spalte,1
+Ertapenem,Ertapenem,Carbapenem,,AB-Spalte,1
+Piperacill,Piperacillin/Tazobactam,Beta-Laktam/BLI,,HYBASE gekuerzt; manuell pruefen,1
+Gentamicin,Gentamicin,Aminoglykosid,,AB-Spalte,1
+Amikacin,Amikacin,Aminoglykosid,,AB-Spalte,1
+Tobramycin,Tobramycin,Aminoglykosid,,AB-Spalte,1
+High level,High-Level-Gentamicin,Aminoglykosid,High-Level-Resistenz,Getrennt halten,1
+Rifampicin,Rifampicin,Rifamycin,,AB-Spalte,1
+Vancomycin,Vancomycin,Glykopeptid,,AB-Spalte,1
+Teicoplani,Teicoplanin,Glykopeptid,,HYBASE gekuerzt,1
+Daptomycin,Daptomycin,Lipopeptid,,AB-Spalte,1
+Linezolid,Linezolid,Oxazolidinon,,AB-Spalte,1
+Clindamyci,Clindamycin,Lincosamid,,HYBASE gekuerzt,1
+Erythromyc,Erythromycin,Macrolid,,HYBASE gekuerzt,1
+Ciprofloxa,Ciprofloxacin,Fluorchinolon,,HYBASE gekuerzt,1
+Levofloxac,Levofloxacin,Fluorchinolon,,HYBASE gekuerzt,1
+Moxifloxac,Moxifloxacin,Fluorchinolon,,HYBASE gekuerzt,1
+Norfloxaci,Norfloxacin,Fluorchinolon,,HYBASE gekuerzt,1
+Doxycyclin,Doxycyclin,Tetracyclin,,AB-Spalte,1
+Tetracycli,Tetracyclin,Tetracyclin,,HYBASE gekuerzt,1
+Minocyclin,Minocyclin,Tetracyclin,,AB-Spalte,1
+Tigecyclin,Tigecyclin,Glycylcyclin,,AB-Spalte,1
+Metronidaz,Metronidazol,Nitroimidazol,,HYBASE gekuerzt,1
+Fosfomycin,Fosfomycin,Fosfomycin,,AB-Spalte,1
+Fusidinsäu,Fusidinsaeure,Fusidinsaeure,,HYBASE gekuerzt,1
+Fusidic Ac,Fusidinsaeure,Fusidinsaeure,,Historische/englische Spalte,1
+Trimethopr,Trimethoprim/Sulfamethoxazol,Folatantagonist,,HYBASE gekuerzt; Dubletten pruefen,1
+Cotrimoxaz,Trimethoprim/Sulfamethoxazol,Folatantagonist,,HYBASE gekuerzt,1
+Clarithrom,Clarithromycin,Macrolid,,HYBASE gekuerzt,1
+Azithromyc,Azithromycin,Macrolid,,HYBASE gekuerzt,1
+Chloramphe,Chloramphenicol,Amphenicol,,HYBASE gekuerzt,1
+Aztreonam,Aztreonam,Monobactam,,AB-Spalte,1
+Colistin,Colistin,Polymyxin,,AB-Spalte,1
+Quinu-/Dal,Quinupristin/Dalfopristin,Streptogramin,,HYBASE gekuerzt,1
+Cefixim,Cefixim,Cephalosporin,,AB-Spalte,1
+Mupirocin,Mupirocin,Sonstige,,AB-Spalte,1
+Flucloxaci,Flucloxacillin,Beta-Laktam,,HYBASE gekuerzt,1
+Nitrofuran,Nitrofurantoin,Nitrofuran,,HYBASE gekuerzt,1
+Mecillinam,Mecillinam,Beta-Laktam,,AB-Spalte,1
+Dalbavanci,Dalbavancin,Lipoglykopeptid,,HYBASE gekuerzt,1
+Cefpirom,Cefpirom,Cephalosporin,,AB-Spalte,1
+Cefpodoxim,Cefpodoxim,Cephalosporin,,AB-Spalte,1
+Caspofungi,Caspofungin,Antimykotikum,,HYBASE gekuerzt,1
+Cephalexin,Cephalexin,Cephalosporin,,AB-Spalte,1
+Isepamicin,Isepamicin,Aminoglykosid,,AB-Spalte,1
+Cefamandol,Cefamandol,Cephalosporin,,AB-Spalte,1
+Mezlocilli,Mezlocillin,Beta-Laktam,,HYBASE gekuerzt,1
+Ceftolozan,Ceftolozan/Tazobactam,Cephalosporin/BLI,,HYBASE gekuerzt,1
+Cefideroco,Cefiderocol,Cephalosporin,,HYBASE gekuerzt,1
+Doripenem,Doripenem,Carbapenem,,AB-Spalte,1
+Cefaclor,Cefaclor,Cephalosporin,,AB-Spalte,1
+Nalidixins,Nalidixinsaeure,Chinolon,,HYBASE gekuerzt,1
+Novobiocin,Novobiocin,Sonstige,,AB-Spalte,1
+Fluconazol,Fluconazol,Antimykotikum,,AB-Spalte,1
+Voriconazo,Voriconazol,Antimykotikum,,HYBASE gekuerzt,1
+Amphoteric,Amphotericin B,Antimykotikum,,HYBASE gekuerzt,1

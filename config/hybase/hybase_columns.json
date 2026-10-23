@@ -1,0 +1,33 @@
+{
+  "default_sheet": "allData_unedited",
+  "sheets": ["allData_unedited"],
+  "mapping_paths": {
+    "material": "config/hybase/mapMaterial.csv",
+    "organism": "config/hybase/mapErreger.csv",
+    "antibiotic": "config/hybase/mapAntibiotikum.csv"
+  },
+  "columns": {
+    "patient_raw": ["PAT_PATIENTENNR"],
+    "birth_date": ["PAT_GEBOREN"],
+    "sex": ["PAT_GESCHLECHT"],
+    "labor_number": ["ORD_LABORNR"],
+    "order_date": ["ORD_DATUM"],
+    "case_number": ["ORD_AUFNAHMENR"],
+    "station": ["ORD_STATION"],
+    "department": ["ORD_FACHBEREICH"],
+    "material": ["ORD_MATERIAL"],
+    "localization": ["ORD_LOKALISATION"],
+    "report_date": ["ORD_BEFUNDDATUM"],
+    "classification": ["ORD_KLASSIFIZIERUNG"],
+    "clinical_relevance": ["ORD_KLINRELEVANZ"],
+    "info": ["ORD_INFO"],
+    "organism": ["RES_ERREGER"],
+    "subtype": ["RES_SUBTYP"],
+    "result_status": ["RES_STATUS"],
+    "result_value": ["RES_WERT"],
+    "resistance_marker": ["RES_MRKENNZEICHEN"],
+    "resistance_marker_date": ["RES_MRDATUM"],
+    "result_comment": ["RES_KOMMENTAR"]
+  },
+  "antibiogram_prefixes": ["AB_"]
+}

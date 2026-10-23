@@ -1,0 +1,30 @@
+name_norm,atc,klasse,suchbegriffe
+Cefalexin,J01DB01,Cephalosporin 1. Gen,Cefalexin|Cephalexin|Ospexin
+Cefazolin,J01DB04,Cephalosporin 1. Gen,Cefazolin|Kefzol|Cefa
+Cefuroxim,J01DC02,Cephalosporin 2. Gen,Cefuroxim|Zinacef|Cefurax
+Ceftriaxon,J01DD04,Cephalosporin 3. Gen,Ceftriaxon|Rocephin
+Cefotaxim,J01DD01,Cephalosporin 3. Gen,Cefotaxim|Claforan
+Piperacillin/Tazobactam,J01CR05,Beta-Lactam/Beta-Lactamase-Inhibitor,Piperacillin|Tazobactam|Tazocin|Pip/Taz|Pip-Taz
+Ampicillin/Sulbactam,J01CR01,Beta-Lactam/Beta-Lactamase-Inhibitor,Ampicillin|Sulbactam|Unacid
+Amoxicillin/Clavulansaeure,J01CR02,Beta-Lactam/Beta-Lactamase-Inhibitor,Amoxiclav|Augmentin|Amoxicillin|Clavulan
+Flucloxacillin,J01CF05,Isoxazolylpenicillin,Flucloxacillin|Floxapen
+Penicillin G,J01CE01,Penicillin,Penicillin G|Pen G|Benzylpenicillin
+Vancomycin,J01XA01,Glykopeptid,Vancomycin|Vanco|Vancomycinum
+Teicoplanin,J01XA02,Glykopeptid,Teicoplanin|Targocid
+Daptomycin,J01XX09,Lipopeptid,Daptomycin|Cubicin
+Linezolid,J01XX08,Oxazolidinon,Linezolid|Zyvoxid
+Rifampicin,J04AB02,Rifamycin,Rifampicin|Rifampin|Eremfat|Rifoldin
+Gentamicin,J01GB03,Aminoglykosid,Gentamicin|Genta
+Tobramycin,J01GB01,Aminoglykosid,Tobramycin
+Clindamycin,J01FF01,Lincosamid,Clindamycin|Dalacin
+Ciprofloxacin,J01MA02,Fluorchinolon,Ciprofloxacin|Ciproxin|Cipro
+Levofloxacin,J01MA12,Fluorchinolon,Levofloxacin|Tavanic
+Moxifloxacin,J01MA14,Fluorchinolon,Moxifloxacin|Avelox
+Meropenem,J01DH02,Carbapenem,Meropenem|Meronem
+Imipenem/Cilastatin,J01DH51,Carbapenem,Imipenem|Cilastatin|Tienam
+Ertapenem,J01DH03,Carbapenem,Ertapenem|Invanz
+Cotrimoxazol,J01EE01,Sulfonamid/Trimethoprim,Cotrimoxazol|Bactrim|Trimethoprim|Sulfamethoxazol
+Doxycyclin,J01AA02,Tetracyclin,Doxycyclin|Vibramycin
+Minocyclin,J01AA08,Tetracyclin,Minocyclin
+Fosfomycin,J01XX01,Phosphonsaeure,Fosfomycin
+Metronidazol,J01XD01,Nitroimidazol,Metronidazol|Flagyl

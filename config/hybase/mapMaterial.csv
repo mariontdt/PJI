@@ -1,0 +1,48 @@
+Material_Raw,Material_Standard,Kommentar,Aktiv
+Gewebe,GEWEBE,Standard HYBASE-Material,1
+Gewebe (SO-GESO),GEWEBE,Sonstiges Gewebe,1
+Knochen,KNOCHEN,Standard HYBASE-Material,1
+Gelenkpunktat,GELENKPUNKTAT,Standard HYBASE-Material,1
+Kniegelenkspunktat,GELENKPUNKTAT,Kniepunktat,1
+Hueftgelenkspunktat,GELENKPUNKTAT,Hueftpunktat ASCII-Schreibweise,1
+Hüftgelenkspunktat,GELENKPUNKTAT,Hueftpunktat,1
+Implantat (SO-IMPL),SONIKATION_IMPLANTAT,Sonikation/Implantat,1
+Implantat,SONIKATION_IMPLANTAT,Implantat/Prothesenbestandteil,1
+Abstrich,ABSTRICH,Allgemeiner Abstrich,1
+Wundabstrich,ABSTRICH,Wundabstrich,1
+Abstrich Hüfte rechts,ABSTRICH,Hueftabstrich rechts,1
+Abstrich Hüfte links,ABSTRICH,Hueftabstrich links,1
+Abstrich Hüfte,ABSTRICH,Hueftabstrich ohne Seite,1
+Abstrich Kniegelenk rechts,ABSTRICH,Knieabstrich rechts,1
+Abstrich Kniegelenk links,ABSTRICH,Knieabstrich links,1
+Abstrich Knie,ABSTRICH,Knieabstrich ohne Seite,1
+Abstrich Schulter rechts,ABSTRICH,Schulterabstrich rechts,1
+Abstrich Schulter links,ABSTRICH,Schulterabstrich links,1
+Abstrich Wunde oberflächlich,ABSTRICH,Oberflaechlicher Wundabstrich,1
+Abstrich Wunde aus der Tiefe,ABSTRICH,Tiefer Wundabstrich,1
+Abstrich Wunde,ABSTRICH,Wundabstrich,1
+Abstrich Wunde postoperativ,ABSTRICH,Postoperativer Wundabstrich,1
+Abstrich Wunde obfl.,ABSTRICH,Oberflaechlicher Wundabstrich,1
+Abstrich Nase und Rachen,ABSTRICH,Nasen-/Rachenabstrich nicht PJI-spezifisch,1
+Abstrich Nase,ABSTRICH,Nasenabstrich nicht PJI-spezifisch,1
+Abstrich Wirbelsäule,ABSTRICH,Wirbelsaeulenabstrich,1
+Wundsekret,WUNDSEKRET,Wundsekret,1
+Haematom,HAEMATOM,ASCII-Schreibweise,1
+Hämatom,HAEMATOM,Haematom,1
+Abszess,ABSZESS,Abszess,1
+Blutkultur,BLUTKULTUR,Blutkultur,1
+Punktat,SONSTIGES_PUNKTAT,Punktat ohne Gelenkbezug,1
+Mittelstrahlharn,SONSTIGES,Nicht PJI-relevantes Standardmaterial,1
+Harn,SONSTIGES,Nicht PJI-relevantes Standardmaterial,1
+Abklatsch Fläche,SONSTIGES,Hygiene-/Umgebungsabklatsch,1
+Hygiene Abklatsch,SONSTIGES,Hygiene-/Umgebungsabklatsch,1
+Abklatsch Hände,SONSTIGES,Hygiene-/Umgebungsabklatsch,1
+Stuhl,SONSTIGES,Nicht PJI-relevantes Standardmaterial,1
+Einmalkatheterharn,SONSTIGES,Nicht PJI-relevantes Standardmaterial,1
+Dauerkatheterharn,SONSTIGES,Nicht PJI-relevantes Standardmaterial,1
+Zentraler Venenkatheter,SONSTIGES,Nicht PJI-relevantes Standardmaterial,1
+"BLK peripher, frisch punktiert",BLUTKULTUR,Blutkultur peripher,1
+"BLK peripher, Venflon",BLUTKULTUR,Blutkultur peripher/Venflon,1
+"Blutkultur, zentral",BLUTKULTUR,Blutkultur zentral,1
+"Blutkultur, arteriell",BLUTKULTUR,Blutkultur arteriell,1
+Sonstige,SONSTIGES,Unspezifisches Material,1

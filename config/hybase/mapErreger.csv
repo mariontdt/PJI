@@ -1,0 +1,62 @@
+Erreger_Raw,Erreger_Standard,Erregergruppe,Gramstatus,Virulenzgruppe,Kommentar,Aktiv
+Propionibacterium acnes,Cutibacterium acnes,CUTIBACTERIUM,GRAM_POSITIV,NIEDRIGVIRULENT,Historischer Name,1
+Cutibacterium acnes,Cutibacterium acnes,CUTIBACTERIUM,GRAM_POSITIV,NIEDRIGVIRULENT,Aktueller Name,1
+Staph. aureus,Staphylococcus aureus,STAPHYLOCOCCUS_AUREUS,GRAM_POSITIV,HOCHVIRULENT,Abkuerzung,1
+Staphylococcus aureus,Staphylococcus aureus,STAPHYLOCOCCUS_AUREUS,GRAM_POSITIV,HOCHVIRULENT,,1
+Staph. aureus MRSA pos,Staphylococcus aureus MRSA,STAPHYLOCOCCUS_AUREUS,GRAM_POSITIV,HOCHVIRULENT,MRSA-Hinweis im Rohtext,1
+Staph. epidermidis,Staphylococcus epidermidis,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,Abkuerzung,1
+Staphylococcus epidermidis,Staphylococcus epidermidis,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,,1
+Staph. capitis,Staphylococcus capitis,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,KoNS,1
+Staph. hominis,Staphylococcus hominis,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,KoNS,1
+Staph. haemolyticus,Staphylococcus haemolyticus,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,KoNS,1
+Staph. lugdunensis,Staphylococcus lugdunensis,KONS,GRAM_POSITIV,HOCHVIRULENT,KoNS mit hoeherer Virulenz,1
+Staph. simulans,Staphylococcus simulans,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,KoNS,1
+Koagulase-negative Staphylokokken,KoNS nicht weiter differenziert,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,Sammelbegriff,1
+Koagulase negative Staphylokokken,KoNS nicht weiter differenziert,KONS,GRAM_POSITIV,NIEDRIGVIRULENT,Sammelbegriff,1
+Strep. vergruenend,Viridans-Streptokokken,STREPTOCOCCUS,GRAM_POSITIV,UNKLAR,Abkuerzung,1
+Strep. salivarius,Streptococcus salivarius,STREPTOCOCCUS,GRAM_POSITIV,UNKLAR,Abkuerzung,1
+Strep. agalactiae,Streptococcus agalactiae,STREPTOCOCCUS,GRAM_POSITIV,HOCHVIRULENT,Gruppe-B-Streptokokken,1
+beta-haem.Strep.(B-Gr),Streptococcus agalactiae,STREPTOCOCCUS,GRAM_POSITIV,HOCHVIRULENT,Gruppe-B-Streptokokken,1
+Vergrünende Streptokokken,Viridans-Streptokokken,STREPTOCOCCUS,GRAM_POSITIV,UNKLAR,Sammelbegriff,1
+Enterococcus spp.,Enterococcus spp.,ENTEROCOCCUS,GRAM_POSITIV,UNKLAR,Sammelbegriff,1
+Enterococcus faecalis,Enterococcus faecalis,ENTEROCOCCUS,GRAM_POSITIV,UNKLAR,,1
+Enterococcus faecium,Enterococcus faecium,ENTEROCOCCUS,GRAM_POSITIV,UNKLAR,,1
+Enterococcus faecium VRE,Enterococcus faecium VRE,ENTEROCOCCUS,GRAM_POSITIV,UNKLAR,VRE-Hinweis im Rohtext,1
+Escherichia coli,Escherichia coli,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,,1
+Escherichia coli ESBL 3 MRGN,Escherichia coli ESBL 3MRGN,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,Resistenzhinweis im Rohtext,1
+Proteus mirabilis,Proteus mirabilis,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,,1
+Kleb. pneumoniae,Klebsiella pneumoniae,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,Abkuerzung,1
+Citrobacter koseri,Citrobacter koseri,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,,1
+Morganella morganii,Morganella morganii,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,,1
+Pseudo. aeruginosa,Pseudomonas aeruginosa,PSEUDOMONAS,GRAM_NEGATIV,HOCHVIRULENT,Abkuerzung,1
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,PSEUDOMONAS,GRAM_NEGATIV,HOCHVIRULENT,,1
+Propionibacterium species,Cutibacterium spp.,CUTIBACTERIUM,GRAM_POSITIV,NIEDRIGVIRULENT,Historischer Sammelbegriff,1
+Kein Wachstum nach 7 Tagen,steril/kein Erreger,NICHT_ERREGERBEFUND,KEIN_ERREGER,NIEDRIGVIRULENT,Negativbefund,1
+Peptostreptococcus species,Peptostreptococcus spp.,ANAEROBIER,ANAEROB,NIEDRIGVIRULENT,,1
+Enterokokken,Enterococcus spp.,ENTEROCOCCUS,GRAM_POSITIV,UNKLAR,Sammelbegriff,1
+Enterob. cloacae,Enterobacter cloacae,ENTEROBACTERALES,GRAM_NEGATIV,HOCHVIRULENT,Abkuerzung,1
+Micrococcus spp,Micrococcus spp.,SONSTIGE,GRAM_POSITIV,NIEDRIGVIRULENT,,1
+Micrococcus luteus,Micrococcus luteus,SONSTIGE,GRAM_POSITIV,NIEDRIGVIRULENT,,1
+Coryneb. spp.,Corynebacterium spp.,CORYNEBACTERIUM,GRAM_POSITIV,NIEDRIGVIRULENT,Abkuerzung,1
+Cutibacterium avidum,Cutibacterium avidum,CUTIBACTERIUM,GRAM_POSITIV,NIEDRIGVIRULENT,,1
+Finegoldia magna,Finegoldia magna,ANAEROBIER,ANAEROB,NIEDRIGVIRULENT,,1
+Candida albicans,Candida albicans,PILZE,PILZ,UNKLAR,,1
+Candida parapsilosis,Candida parapsilosis,PILZE,PILZ,UNKLAR,,1
+Gramnegative Stäbchen,Gramnegative Stäbchen,ANDERE_GRAMNEGATIVE,GRAM_NEGATIV,UNKLAR,Sammelbefund,1
+Grampositive Kokken,Grampositive Kokken,SONSTIGE,GRAM_POSITIV,UNKLAR,Sammelbefund,1
+Grampositive Stäbchen,Grampositive Stäbchen,SONSTIGE,GRAM_POSITIV,UNKLAR,Sammelbefund,1
+Biofire-Gelenkinf. P,BioFire Gelenkinfektionspanel positiv,SONSTIGE,UNKLAR,UNKLAR,PCR-Panel; nicht Kultur gleichsetzen,1
+MRSA-PCR (Quick),MRSA-PCR Screening,SONSTIGE,GRAM_POSITIV,UNKLAR,Screening/PCR,1
+SARS-CoV-2 PCR/Abstr,SARS-CoV-2 PCR,NICHT_ERREGERBEFUND,VIRUS,UNKLAR,Nicht PJI-relevant,1
+SARS-CoV-2 PCR/Akut,SARS-CoV-2 PCR,NICHT_ERREGERBEFUND,VIRUS,UNKLAR,Nicht PJI-relevant,1
+Clostr. diff. AG,Clostridioides difficile Antigen,NICHT_ERREGERBEFUND,ANAEROB,UNKLAR,Stuhltest,1
+Clost.diff.Toxin AB,Clostridioides difficile Toxin,NICHT_ERREGERBEFUND,ANAEROB,UNKLAR,Stuhltest,1
+Clostr. diff. AG (Rate),Clostridioides difficile Antigen,NICHT_ERREGERBEFUND,ANAEROB,UNKLAR,Stuhltest,1
+Adenovirus-AG/Stuhl,Adenovirus Antigen,NICHT_ERREGERBEFUND,VIRUS,UNKLAR,Stuhltest,1
+Rotavirus-AG/Stuhl,Rotavirus Antigen,NICHT_ERREGERBEFUND,VIRUS,UNKLAR,Stuhltest,1
+Keime der üblichen Mund- und Rachenflora,Mund- und Rachenflora,NICHT_ERREGERBEFUND,UNKLAR,NIEDRIGVIRULENT,Flora/Sammelbefund,1
+xx,unklar,UNKLAR,UNKLAR,UNKLAR,Platzhalter/unklarer Rohwert,1
+Bacillus species,Bacillus spp.,SONSTIGE,GRAM_POSITIV,UNKLAR,Sammelbegriff,1
+Bacillus sphaericus,Bacillus sphaericus,SONSTIGE,GRAM_POSITIV,UNKLAR,,1
+ß-hämolysierende Streptokokken Gr.B,Streptococcus agalactiae,STREPTOCOCCUS,GRAM_POSITIV,HOCHVIRULENT,Gruppe-B-Streptokokken,1
+steril/kein Erreger,steril/kein Erreger,NICHT_ERREGERBEFUND,KEIN_ERREGER,NIEDRIGVIRULENT,Negativbefund,1
